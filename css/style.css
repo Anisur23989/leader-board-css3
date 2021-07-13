@@ -127,3 +127,7 @@ hr{
     font-size:12px;
     color:goldenrod
 }
+.course-duration{
+    background: rgb(209, 142, 18);
+   padding: 2px;
+}
